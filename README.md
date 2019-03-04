@@ -1,5 +1,5 @@
 # Live chat
-Live chat (backend), is an RESTfull live chat made with [Socket.io](https://socket.io/). 
+Live chat (backend), is an Websocket live chat made with [Socket.io](https://socket.io/). 
 
 This application was made for study purposes only, but feel free to use it. 
 
