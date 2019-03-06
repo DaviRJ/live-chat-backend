@@ -1,3 +1,3 @@
 module.exports = {
-    "EVENT_WELCOME": "EVENT_WELCOME",
+    "EVENT_MESSAGE": "EVENT_MESSAGE"
 }
